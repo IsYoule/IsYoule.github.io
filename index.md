@@ -7,5 +7,5 @@
      </td>
      <td width="25">
      </td>
-   <\tr>
+   </tr>
 </table>
